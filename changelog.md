@@ -29,9 +29,27 @@
 * ghostparts.cfg has been updated and temporarily added for renamed parts
 
 
-* Eliminate Duplicate
-  * textures
+* textures
+  * Eliminate Duplicate
     * <trans.mbm> 257kb
+  * Convert form .mbm to .png
+    * <trans.mbm> 262kb --> 1kb
+    * <UVMCT1A.mbm> 65.6mb --> 12.6mb
+    * <UVMCTChute.mbm> 16.8mb --> 362kb
+    * <UVMCTChuteNormal.mbm> 16.35mb --> 55kb
+    * <UVMCTEmissive1A.mbm> 49.1mb --> 170kb
+    * <UVMCTInterstage.mbm> 12.3mb b --> 798kb
+    * <UVMCTInterstageNormal.mbm> 16.36kb --> 1.384mb
+    * <UVMCTLab01.mbm> 49.15mb --> 2.499mb
+    * <UVMCTLabEmissive01.mbm> 49.15mb --> 435kb
+    * <UVMCTLabNormal01.mbm> 65.5mb --> 2.427mb
+    * <UVMCTLandingLeg.mbm> 4.1mb --> 123kb
+    * <UVMCTLandingLegNormal.mbm> 4.1mb --> 23kb
+    * <UVMCTNormal1A.mbm> 65.5mb --> 1.392mb
+    * <UVMCTNoseCone.mbm> 3.1mb --> 137kb
+    * <WhiteNormal.mbm> 257kb --> 1kb
+407mb --> 21.8mb
+
 
 ### Archival Releases
 
