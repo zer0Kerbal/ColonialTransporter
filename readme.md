@@ -54,6 +54,7 @@ A 50-person, 7 meter capsule designed for the colonization of any planetary body
       * Raptor 1A XX Engine Housing - 7-meter octaweb housing for nine Raptor 1A engines for SpaceX Falcon XX launch vehicles.
 * Ships (.craft)
   * LT SpaceX Colonial Transporter - Designed and tested to explore and return from any solid body in the Kerbol system, this vehicle can transport up to 42 passengers and 8 crew members with an inflatable laboratory/greenhouse for permanent colonization. The SSTO (Single Stage To Orbit) Falcon XX first stage uses 9 Raptor 1A engines to reach orbit and return for a soft ocean landing for recovery. The upper stage uses a single Raptor 1A long-range vacuum engine that can be refueled with methane and oxygen mined from other planets and moons.
+  * [Craft Notes](https://zer0kerbal.github.io/ColonialTransporter/HowItWorks.html)
 
 ### See more
 
