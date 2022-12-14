@@ -1,0 +1,138 @@
+LazTek SpaceX Colonial Transporter HD .90
+
+LazTek Temporal Anomalies appreciates your participation in testing our products for Kerbal Space Program.
+
+************
+The SpaceX Colonial Transporter HD is a stand-alone parts package for Kerbal Space Program and requires at least 8-16 GB RAM and a high-end graphics card to load and run in the manner intended. A lower-resolution version is also available. ONLY ONE VERSION OF THIS PACKAGE IS DESIGNED TO BE INSTALLED AT A TIME. INSTALLING THE OTHER VERSION WILL OVERWRITE THE CURRENT ONE.
+
+Remove any prior installations of this package before installing to prevent incompatibilities with older parts. To install, extract the GameData and Ships folders into your KSP program folder. When asked to merge, choose yes.
+
+For assistance or to give your feedback, visit http://forum.kerbalspaceprogram.com/threads/29388-LazTek-SpaceX-Launch-Pack-Exploration-Expansion-and-Historic-Archive-mods-0-90-%281-6-15%29
+
+************
+Included with this package:
+
+PARTS -
+
+Colonial Transporter Capsule - A 50-person, 7 meter capsule designed for the colonization of any planetary body. Accomodates an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
+
+Colonial Labratory - 7-meter self-contained laboratory, greenhouse and fuel extraction/refinery facility with top decoupler, batteries, monopropellant and a light ablative heat shield.
+
+Colonial Transporter Chute - Large parachute designed to be attached to Colonial Transport spacecraft for emergency and atmospheric planetary soft landings.
+
+Colonial Transporter Docking Interstage - 7-meter decoupler and dock
+
+Colonial Transporter Landing Leg - Landing leg for Colonial Transporter, designed to be attached radially in two sets of 4.
+
+Colonial Transporter Nose Cone - Ejectable nosecone for SpaceX Colonial Transporter capsule.
+
+Colonial Transporter Lab Heat Shield - 7-meter PICA-X protective heat shield with bottom decoupler for heavy atmospheric entry of Colonial Transporter Lab.
+
+Colonial Transporter Solar Array - Large and efficent retractable solar panel array designed to attach to Colonial Transporter to provide power for long-range space travel.
+
+Retractable Ladder - Sturdy retractable ladder for lander vehicles.
+
+Retractable Ramp - Sturdy retractable ramp for habitats and landers.
+
+Straight Landing Leg - Impact-absorbing landing leg.
+
+SpaceX UltraDraco Twin Engine Nacelle with RCS - Next-generation combination of twin UltraDraco engines and RCS control in a nacelle radial mount to attach to Colonial Transporter capsule in a set of 4. Using monopropellant for fuel, these are designed to be used as emergency escape thrusters and powered landings as well as providing reaction control. 
+
+SpaceX UltraDraco Twin Engine Nacelle - Next-generation twin UltraDraco engines and nacelle radial mount to attach to Colonial Transport capsule in an opposing set of 2. Using monopropellant for fuel, these are designed to be used as emergency escape thrusters or for powered landings. 
+
+SpaceX Dragon Docking Port - Docking port for SpaceX spacecraft, also connects to medium-sized docking ports.
+
+Large Gridfin - An alternative to standard control fins, a gridfin is designed to remain flat against an outer bulkhead and extend when needed to help steer the vehicle.
+
+Falcon XX Flight Control System - 7m SpaceX Falcon XX remote control system with ASAS/reaction wheel and batteries.
+
+Falcon XX Interstage - 7m decoupler fairing for first stage of SpaceX Falcon XX launch system.
+
+SpaceX Falcon XX Main Tank - 7-meter liquid fuel tank with monopropellant for the first stage of SpaceX Falcon XX launch system.
+
+SpaceX Falcon XX Upper Stage Tank - 7-meter upper stage liquid fuel tank with monopropellant for SpaceX Falcon XX launch vehicles.
+
+SpaceX Raptor 1A Engine - The massive next-gen SpaceX Raptor 1A primary engine uses liquid methane and oxygen for fuel and is designed for the first stages of the SpaceX Falcon X and Falcon XX launch systems.
+
+SpaceX Raptor 1A Vacuum Engine - The huge next-gen SpaceX Raptor 1A vacuum engine uses liquid methane and oxygen for fuel and is designed to propel the upper stages of the SpaceX Falcon X and Falcon XX launch systems, including long-range exploratory vehicles.
+
+SpaceX Raptor 1A XX Engine Housing - 7-meter octaweb housing for nine Raptor 1A engines for SpaceX Falcon XX launch vehicles.
+
+
+SHIPS -
+
+LT SpaceX Colonial Transporter - Designed and tested to explore and return from any solid body in the Kerbol system, this vehicle can transport up to 42 passengers and 8 crew members with an inflatable laboratory/greenhouse for permanent colonization. The SSTO (Single Stage To Orbit) Falcon XX first stage uses 9 Raptor 1A engines to reach orbit and return for a soft ocean landing for recovery. The upper stage uses a single Raptor 1A long-range vacuum engine that can be refueled with methane and oxygen mined from other planets and moons. 
+
+COLONIAL TRANSPORTER CRAFT KEY COMMANDS: 
+G: All landing legs 
+U: Exterior lights on Colonial Transporter Capsule
+1: Toggle center-only first stage engine configuration for stage return 
+3: Cabin interior lights
+4: All lab lights
+5: Ladders and ramp toggle
+6: Gridfins extend/retract
+7: Inflate lab greenhouse (WARNING! ACTIVATION WHILE ATTACHED TO CRAFT WILL RESULT IN CATASTROPHIC STAGE SEPARATION)
+8: Lab landing gear extend/retract
+9: Lab solar arrays toggle
+0: Main solar arrays toggle
+DEL: Launch abort activates 
+
+NOTES - When using autopilot mods with this craft, reduce maximum thrust to 66% with a 40m/s max acceleration to reduce ship vibration and pogoing during launch. Remember to extend gridfins for better control on launch and first stage return.
+
+
+||FLIGHT INSTRUCTIONS FOR DUNA COLONIAL TRANSPORTER MISSION||
+
+TAKEOFF CHECKLIST:
+1. Engage SAS
+2. Extend gridfins
+3. Throttle up to 75%
+4. Activate first stage (main engines)
+5. Begin slow gravity turn bearing 090 around 8000m, finish around 30000m
+6. Cut main engines
+7. Activate second stage (eject nosecone)
+8. Activate RCS
+9. Use map view to plan circularization burn at apoapsis (approx. 100m)
+10. Establish orbit
+11. Activate third and fourth stages (upper stage separation and Raptor 1A vacuum engine activation)
+12. Apply short, light thrust to separate stages
+13. Extend main solar arrays
+
+FIRST STAGE RETURN
+1. Use map view to plan deorbit burn around 1/4 of the way around Kerbin west of the launch pad, with a trajectory that puts the landing in the ocean east of the KSC near the coast
+2. Press the 1 key to switch to center engine only configuration
+3. Execute deorbit burn
+4. Reduce reentry speed by firing engine beginning around 32000m, disengage engine after dropping speed below 600 m/s
+5. After allowing atmosphere to slow first stage to around 200 m/s, use engine thrust to center prograde trajectory on nav ball so vehicle is dropping straight down
+6. Apply throttle as needed to slow vertical speed to around 5m/s by the time it reaches the ocean
+7. Cut engine and first stage should float vertically with no loss of components. Recover vehicle
+
+COLONIAL TRANSPORTER TO DUNA
+1. Use map view to plan escape burn at the eastern terminator (the right side of kerbin where the light and dark meet)
+2. Execute escape burn and coast to Kerbol orbit
+3. Use map view to plan Hohmann transfer to Duna
+4. Execute transfer burn at appropriate time
+5. Fine tune Duna orbital to 20000m insertion around halfway through transfer
+6. After reaching Duna SOI, reduce periapsis to 13500m for aerocapture
+7. Point ship retrograde and retract solar panels before entering atmosphere at around 40000m
+8. After aerocapture, use a couple of burns to stablish equitorial orbit at around 60K
+9. Extend main solar arrays
+
+ATMOSPHERIC LANDING CHECKLIST: 
+1. Activate fifth and sixth stages to separate Colonial Transporter and Lab and activate UltraDraco engines
+2. Use map view to plan deorbit burn about 1/4 around the planet west from the (hopefully) flat landing site you choose
+3. Coast to deorbit position and execute burn
+4. Keep vehicle in retrograde orientation as altitude decreases
+5. Allow atmosphere to decelerate craft to around 5000m 
+6. Press "8" key to extend Lab landing gear 
+7. At around 3000m, apply 20% thrust and activate seventh stage to separate Lab with parachutes deployed
+8. Cut throttle after Lab is clear
+9. Use throttle to slow orbital speed to under 100m/s, stabilize vertical attitude to make craft fall directly straight down
+10. Deploy landing gear
+11. Apply throttle as needed to slow descent to 5m/s just before touching down
+12. Extend ladders and let kerbalnauts watch Lab land nearby
+
+
+************
+License:
+Created by Lazarus Luan (Lazarus). Neither this mod, nor any part of it may be redistributed.
+

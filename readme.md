@@ -5,8 +5,8 @@ updated: 04 Oct 2022 -->
 
 <!--this file: CC BY-ND 4.0 by zer0Kerbal-->
 
-[![Colonial Transporter (LTC)][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
+[![Colonial Transporter (LTC)][MOD:shd:latest]][CURSFG:url] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] 
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
@@ -14,8 +14,9 @@ updated: 04 Oct 2022 -->
 
 A 50-person, 7 meter capsule designed for the colonization of any planetary body. Accomodates an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
 
+only the 'HD' textures are included, if requested will also publish the 'normal' and the 'LD' textures.
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`LazarusLuan`][lazarusuan]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`LazarusLuan`][lazarusluan]
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/ColonialTransporter/master/img/HeroLogo_1920x1920.png" alt="ColonialTransporter Hero" width="50%" height="50%">
 
@@ -110,17 +111,32 @@ or [![CKAN][ckan:img]][ckan:url]
 * [ExplorationExpansion (LTE)][LTE]
 * [HistoricArchive (LTH)][LTH]
 
+### Suggests
+
+* [Biomatic (BIO)][BIO]
+* [Field Training Facility (FTF)][FTF]
+* [Field Training Lab (FTL)][FTL]
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [Kaboom! (BOOM)][BOOM]
+* [Kerbal Attachment System][kas]
+* [Kerbal Inventory System][kis]
+* [Kerbal Joint Reinforcement][kjr]
+* [Keridian Dynamics (KDVA)][KDVA]
+* [MoarKerbals (MOAR)][MOAR]
+* [Not So SimpleConstructon! (NSSC)][NSSC]
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [OScience Laboratories (OSL)][OSL]
+* [Papa Kerballini's Pizza (PIZZA)][PIZZA]
+* [SimpleConstruction! (SCON)][SCON]
+* [SimpleLogistics! (SLOG)][NSSC]
+* [Solar Science (SOL)][SOL]
+* [TweakScale][twk]
+
 ### Supports
 
 * Either [^3]
   * [Module Manager /L][mml]
   * [Module Manager][mm]
-
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [NEAR-FAR][far]
-* [Restock][restock]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
 ### Tags
 
@@ -135,7 +151,7 @@ parts, config
 
 ### Credits and Special Thanks
 
-* [LazarusLuan][lazarusuan] for creating this glorious parts addon!
+* [LazarusLuan][lazarusluan] for creating this glorious parts addon!
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
@@ -152,9 +168,9 @@ parts, config
 
 ##### see [Notices.md][MOD:notic] for more *legal Mumbo Jumbo*
 
-#### Original (0) - Author: [`LazarusLuan`][lazarusuan]
+#### Original (0) - Author: [`LazarusLuan`][lazarusluan]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][MOD:0:thread] - Download: [CurseForge][MOD:0:dnload] - Source: [CurseForge][MOD:0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url]
 
 ### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
@@ -181,7 +197,7 @@ parts, config
 <!--- mod provenance -->
 [MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/ColonialTransporter "CurseForge"
 [MOD:0:source]: https://www.curseforge.com/kerbal/ksp-mods/ColonialTransporter "CurseForge"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/27154-*/ "KSP Forum"
 
 <!--- license provenance -->
 [LIC:0:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
@@ -218,29 +234,25 @@ parts, config
 [LTH]: https://github.com/zer0Kerbal/HistoricArchive "HistoricArchive (LTH)"
 
 [BIO]: https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*/ "Biomatic (BIO)"
+[BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom (BOOM)"
 [FTF]: https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/ "Field Training Facility (FTF)"
 [FTL]: https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/ "Field Training Lab (FTL)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
-[BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom (BOOM)"
+[KDVA]: https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "Keridian Dynamics (KDVA)"
+[MOAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*/ "MoarKerbals (MOAR)"
+[NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon! (NSSC)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
+[OSL]: https://forum.kerbalspaceprogram.com/index.php?/topic/209490-*/ "OScience Laboratories (OSL)"
 [PIZZA]: https://forum.kerbalspaceprogram.com/index.php?/topic/209577-*/ "Papa Kerballini's Pizza (PIZZA)"
+[SCON]: https://forum.kerbalspaceprogram.com/index.php?/topic/191424-*/ "SimpleConstructon! (SCON)"
+[SLOG]: https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/ "SimpleLogistics! (SLOG)"
+[SOL]: https://forum.kerbalspaceprogram.com/index.php?/topic/192489-*/ "Solar Science (SOL)"
 
-[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[ifs]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch"
-[ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch (Core)"
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
 [kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
-[kspie]: https://forum.kerbalspaceprogram.com/index.php?/topic/172026-*/ "KSP Interstellar Extended (KSPIE)"
-[kurs]: https://github.com/linuxgurugamer/DockingCam "KURS style docking camera"
-[mas]:  https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
-[rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*/ "Raster Prop Monitor"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
