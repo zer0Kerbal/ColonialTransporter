@@ -14,6 +14,7 @@ updated: 04 Oct 2022 -->
 
 A 50-person, 7 meter capsule designed for the colonization of any planetary body. Accomodates an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
 
+only the 'HD' textures are included, if requested will also publish the 'normal' and the 'LD' textures.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`LazarusLuan`][lazarusluan]
 
@@ -196,7 +197,7 @@ parts, config
 <!--- mod provenance -->
 [MOD:0:dnload]: https://www.curseforge.com/kerbal/ksp-mods/ColonialTransporter "CurseForge"
 [MOD:0:source]: https://www.curseforge.com/kerbal/ksp-mods/ColonialTransporter "CurseForge"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/64520-*/ "KSP Forum"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/27154-*/ "KSP Forum"
 
 <!--- license provenance -->
 [LIC:0:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
