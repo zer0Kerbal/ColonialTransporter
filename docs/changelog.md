@@ -33,5 +33,6 @@ CC BY-ND 4.0 by zer0Kerbal -->
 * Issues
   * closes #10 - Archival Releases
   * closes #15 - 0.9.0.0-release
+  * closes #37 - [BUG] archival release config issues
 
 ---
