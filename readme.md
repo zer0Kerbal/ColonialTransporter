@@ -186,9 +186,6 @@ parts, config
 [LIC:0:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
 [LIC:0:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved"
 
-<!-- [LIC:0:url]: https://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0"
-[LIC:0:shd]: https://img.shields.io/badge/License-CC%20BY--ND%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-ND 4.0" -->
-
 [LIC:url]: https://creativecommons.org/licenses/by-sd/4.0/ "CC BY-ND 4.0"
 [LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ColonialTransporter/master/json/license.json "CC BY-ND 4.0"
