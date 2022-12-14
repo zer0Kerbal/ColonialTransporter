@@ -7,6 +7,53 @@
 | github     | (https://github.com/zer0Kerbal/ColonialTransporter)               |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ColonialTransporter)  |
 
+## Version 0.9.99.0-adoption - `<Thank you LazarusLuan>` edition
+
+* Released
+  * 14 Dec 2022
+  * for Kerbal Space Program 1.12.4
+  * by zer0Kerbal
+
+### Summary 0.9.99.0
+
+* This is next in a series of updates with each (pre)release updating some of the twenty-two (2) parts. Doing this allows for updating in manageable way.
+* loads of behind the scenes changes
+* Updated parts
+  * MCT
+  * Nosecone
+  * LandingLeg
+  * Lab
+  * Interstage
+  * Chute
+* Can search `ltc`, `laztek` in editors
+* ghostparts.cfg has been updated and temporarily added for renamed parts
+
+### Archival Releases
+
+* 0.9.0.0-release `<Archival>`
+* closes #10 - Archival Releases
+
+### Status 0.9.99.0
+
+* Issues
+  * closes #4 - Colonial Transporter (LTC) 0.9.99.0-adoption `<Thank you LazarusLuan>` edition
+  * closes #5 - 1.1.99.0 Create Legal Mumbo Jumbo
+  * closes #6 - 1.1.99.0 Create Documentation
+  * closes #7 - 1.1.99.0 Create Social Media Presence
+
+  * closes #35 - Part Tags
+  * closes #34 - Part Localization
+  * updates #17 - English <en-us.cfg>
+  * closes #16 - Localization - Master
+  * closes #14 - Update License
+  * closes #13 - Create <ColonialTransporter.cfg>
+  * closes #12 - Part Asset Updates
+  * closes #11 - Create Localization directory and contents
+  * closes #9 - Create HeroLogo.png
+  * closes #8 - Create GitHub Pages
+
+---
+
 ## Version 0.9.0.0-release - `<Archival>` edition
 
 * Released
