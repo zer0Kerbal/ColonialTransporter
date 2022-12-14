@@ -28,6 +28,11 @@
 * Can search `ltc`, `laztek` in editors
 * ghostparts.cfg has been updated and temporarily added for renamed parts
 
+
+* Eliminate Duplicate
+  * textures
+    * <trans.mbm> 257kb
+
 ### Archival Releases
 
 * 0.9.0.0-release `<Archival>`
