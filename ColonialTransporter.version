@@ -27,7 +27,7 @@
 		"MAJOR" : 1,
 		"MINOR" : 3,
 		"PATCH" : 1
-	}
+	},
 	"INSTALL_LOC" :
 	{
 		"NAME" :	  "ColonialTransporter",
