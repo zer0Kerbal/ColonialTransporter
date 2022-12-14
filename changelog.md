@@ -14,6 +14,8 @@
   * for Kerbal Space Program 0.9.0
   * by LazarusLuan
 
+* no changelog
+
 ### Status 0.9.0.0
 
 * Issues
