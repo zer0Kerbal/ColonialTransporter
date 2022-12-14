@@ -7,7 +7,7 @@
 | github     | (https://github.com/zer0Kerbal/ColonialTransporter)               |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ColonialTransporter)  |
 
-## Version 0.9.0.0-release - `<EDITION>` edition
+## Version 0.9.0.0-release - `<Archival>` edition
 
 * Released
   * 25 Jan 2015
