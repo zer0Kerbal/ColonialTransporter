@@ -50,7 +50,6 @@
     * <WhiteNormal.mbm> 257kb --> 1kb
 407mb --> 21.8mb
 
-
 ### Archival Releases
 
 * 0.9.0.0-release `<Archival>`
