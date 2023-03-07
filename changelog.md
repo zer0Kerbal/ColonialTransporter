@@ -36,11 +36,13 @@
     * <WhiteNormal.dds> 86kb
     * <WhiteNormal.dds> 86kb
     * <WhiteNormal.dds> 86kb
+    * <WhiteNormal.dds> 86kb
     * <BlackNormal.dds> 86kb
     * <Black.fw.dds> 86kb
     * <Brushed.dds> 1.366mb
     * <goldfoil.dds> 342kb
     * <goldfoilNormal.dds> 342kb
+    * <White.fw.dds> 86kb
     * <White.fw.dds> 86kb
   * Convert form .mbm to .png
     * <trans.mbm> 262kb --> 1kb
