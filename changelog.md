@@ -32,6 +32,7 @@
 * textures
   * Eliminate Duplicate
     * <trans.mbm> 257kb
+    * <WhiteNormal.dds> 86kb
   * Convert form .mbm to .png
     * <trans.mbm> 262kb --> 1kb
     * <UVMCT1A.mbm> 65.6mb --> 12.6mb
