@@ -37,6 +37,7 @@
     * <WhiteNormal.dds> 86kb
     * <WhiteNormal.dds> 86kb
     * <WhiteNormal.dds> 86kb
+    * <WhiteNormal.dds> 86kb
     * <BlackNormal.dds> 86kb
     * <Black.fw.dds> 86kb
     * <Brushed.dds> 1.366mb
@@ -44,6 +45,9 @@
     * <goldfoilNormal.dds> 342kb
     * <White.fw.dds> 86kb
     * <White.fw.dds> 86kb
+    * <UVUltraDracoNormal.dds> 1.366 mb
+    * <UVUltraDraco.dds> 1.366 mb
+    * <UVUltraDracoEmissive.dds> 1.366 mb
   * Convert form .mbm to .png
     * <trans.mbm> 262kb --> 1kb
     * <UVMCT1A.mbm> 65.6mb --> 12.6mb
