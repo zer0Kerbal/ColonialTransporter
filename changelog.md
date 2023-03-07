@@ -35,6 +35,7 @@
     * <WhiteNormal.dds> 86kb
     * <WhiteNormal.dds> 86kb
     * <WhiteNormal.dds> 86kb
+    * <WhiteNormal.dds> 86kb
     * <BlackNormal.dds> 86kb
     * <Black.fw.dds> 86kb
     * <Brushed.dds> 1.366mb
