@@ -14,12 +14,10 @@
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
-### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
-
 ### Summary 0.9.99.0
 
 * Not everything is updated
-* Lab doesn't have and IVA
+* Lab doesn't have an IVA (other than the science lab)
 * Pod's IVA only has 4 seats (but still seats 50)
 * Stock Balance pass needed
 * loads of behind the scenes changes
