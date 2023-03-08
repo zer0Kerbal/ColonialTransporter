@@ -1,5 +1,5 @@
 <!-- readme.md v1.0.1.0
-Colonial Transporter (LTC)
+Colonial Transporter (LCT)
 created: 13 Dec 2022
 updated: 16 Mar 2023
 
@@ -9,14 +9,14 @@ updated: 17 Feb 2023
 
 this file: CC BY-ND 4.0 by zer0Kerbal -->
 
-[![Colonial Transporter (LTC)][MOD:shd]][CURSFG:url] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Colonial Transporter (LCT)][MOD:shd]][CURSFG:url] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] 
 [![Pages][PAGES:shd]][pages]
 
 
-# Colonial Transporter (LTC)
+# Colonial Transporter (LCT)
 
-A 50-person, 7 meter capsule designed for the colonization of any planetary body. Accomodates an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
+A 50-kerbal, 7 meter capsule designed for the colonization of any planetary body. Accomodates an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
 
 only the 'HD' textures are included, if requested will also publish the 'normal' and the 'LD' textures.
 
@@ -70,31 +70,39 @@ only the 'HD' textures are included, if requested will also publish the 'normal'
 >* [ChangeLog][chlog] for more details of changes
 >* [Known Issues][issue] for more details of feature requests and known issues
 
-[DragonRider Demonstration Flight](https://youtu.be/YHweoLbBh64)
-[Falcon 9 Reusability Demonstration](https://youtu.be/tfXa-zItqjU)
-[Falcon Heavy Reusability Demonstration](https://youtu.be/EmL7K2l8sbg)
-[3.75m Payload Bay Demonstration](https://youtu.be/c2qMbbS55Pg)
+### YouTube
+
+* [DragonRider Demonstration Flight](https://youtu.be/YHweoLbBh64)
+* [Falcon 9 Reusability Demonstration](https://youtu.be/tfXa-zItqjU)
+* [Falcon Heavy Reusability Demonstration](https://youtu.be/EmL7K2l8sbg)
+* [3.75m Payload Bay Demonstration](https://youtu.be/c2qMbbS55Pg)
 
 ### Help Wanted
 
+> * Stock Balance Pass - can 50 kerbals actually fit in the pod?
 > * Compatibility patches
+>   * RPM/MAS, life support, other
+> * IVA's
+>   * Update the pod's IVA
+>   * New IVA for the lab
 > * Sample Crafts
 > * Contracts for these glorious parts
 > * Variant Textures
+> * Model updates (add/improve lights, iva, hatches and so forth)
+> * Update the landing legs to use stock leg modules instead of ModuleAnimateGeneric
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
+> * Translations: See the [README in the Localization folder][lreadme] for instructions for adding or improving translations. There is also the [quickstart guide][qstart]. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Localization
 
 >* ![English][EN] English
 >* ***your translation here***
->
-> HELP WANTED - See the [README in the Localization folder][lreadme] or the [Quickstart Guide][qstart] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
-### Installation Directions [^1]
+### Installation Directions
 
-***Use***
-  CurseForge/OverWolf App (currently does not install dependencies)  
+***Only available on***
+  CurseForge Website / OverWolf App
 
   <a href="https://download.curseforge.com/"> <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%"></a>
 
@@ -105,10 +113,10 @@ only the 'HD' textures are included, if requested will also publish the 'normal'
 ### Recommends
 
 * [LazTek Dev (LTD)][LTD]
-  * [LaunchPack (LTL)][LTL]
-  * [ColonialTransporter (LTC)][LTC]
-  * [ExplorationExpansion (LTE)][LTE]
-  * [HistoricArchive (LTH)][LTH]
+  * [LaunchPack (LLP)][LLP]
+  * [Colonial Transporter (LCT)][LCT]
+  * [Exploration Expansion (LTE)][LTE]
+  * [Historic Archive (LHA)][LHA]
 
 ### Suggests
 
@@ -138,9 +146,11 @@ only the 'HD' textures are included, if requested will also publish the 'normal'
 
 ### Supports
 
-* Either [^2]
-  * [Module Manager /L][mml]
-  * [Module Manager][mm]
+* Either
+  * [Modular Management (MM)][MM]
+  * [Module Manager][m-m]
+
+*Be Kind: lithobrake, not jakebrake! Keep your ModMan up to date!*
 
 ### Tags
 
@@ -168,7 +178,7 @@ parts, config
 > ##### Disclaimer(s)
 >
 > ***All bundled mods are distributed under their own licenses***  
-> ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses***
+> ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses. [![License][LIC:0:shd]][LIC:0:url]***
 
 ##### see [Notices.md][notic] for more *legal Mumbo Jumbo*
 
@@ -235,11 +245,11 @@ Comment, click, like, share, up-vote, subscribe
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [KAMP]: https://forum.kerbalspaceprogram.com/index.php?/topic/207263-*/ "Adjustable Mod Panel (KAMP)"
 [KDVA]: https://forum.kerbalspaceprogram.com/index.php?/topic/202945-*/ "Keridian Dynamics (KDVA)"
-[LTC]: https://github.com/zer0Kerbal/ColonialTransporter "ColonialTransporter (LTC)"
+[LCT]: https://github.com/zer0Kerbal/ColonialTransporter "ColonialTransporter (LCT)"
 [LTD]: https://github.com/zer0Kerbal/LazTekDev "LazTek Dev (LTD)"
 [LTE]: https://github.com/zer0Kerbal/ExplorationExpansion "ExplorationExpansion (LTE)"
-[LTH]: https://github.com/zer0Kerbal/HistoricArchive "HistoricArchive (LTH)"
-[LTL]: https://github.com/zer0Kerbal/LaunchPack "LaunchPack (LTL)"
+[LHA]: https://github.com/zer0Kerbal/HistoricArchive "HistoricArchive (LHA)"
+[LLP]: https://github.com/zer0Kerbal/LaunchPack "LaunchPack (LLP)"
 [MOAR]: https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*/ "MoarKerbals (MOAR)"
 [NOTES]: https://forum.kerbalspaceprogram.com/index.php?/topic/207118-*/ "SimpleNotes! (NOTES)"
 [NSSC]: https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*/ "Not So SimpleConstructon! (NSSC)"
@@ -255,8 +265,8 @@ Comment, click, like, share, up-vote, subscribe
 [kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
 [kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
 [kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
-[mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
-[mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
+[m-m]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
+[MM]: https://github.com/net-lisias-ksp/ModuleManager "Modular Management (MM)"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
@@ -286,7 +296,3 @@ Comment, click, like, share, up-vote, subscribe
 Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/ColonialTransporter/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 [<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>
-
-<!-- footnotes -->
-[^1]: this isn't a mod. ;P  
-[^2]: *Be Kind: Lithobrake, not jakebrake! Keep your ModManager up to date!*
