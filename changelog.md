@@ -10,24 +10,22 @@
 ## Version 0.9.99.0-adoption - `<Thank you LazarusLuan>` edition
 
 * Released
-  * 14 Dec 2022
-  * for Kerbal Space Program 1.12.4
-  * by zer0Kerbal
+  * 06 Mar 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 ### Summary 0.9.99.0
 
-* This is next in a series of updates with each (pre)release updating some of the twenty-two (2) parts. Doing this allows for updating in manageable way.
+* Not everything is updated
+* Lab doesn't have and IVA
+* Pod's IVA only has 4 seats (but still seats 50)
+* Stock Balance pass needed
 * loads of behind the scenes changes
-* Updated parts
-  * MCT
-  * Nosecone
-  * LandingLeg
-  * Lab
-  * Interstage
-  * Chute
+* Uses the HD textures, but much smaller release package
 * Can search `ltc`, `laztek` in editors
 * ghostparts.cfg has been updated and temporarily added for renamed parts
-
 
 * textures
   * Eliminate Duplicates
