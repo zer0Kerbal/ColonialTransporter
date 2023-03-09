@@ -16,14 +16,18 @@
 
 ### Summary 0.9.99.0
 
-* Not everything is updated
-* Lab doesn't have an IVA (other than the science lab's)
-* Pod's IVA only has 4 seats (but still seats 50)
+* Not everything is updated, but the important things should be
+* Lab doesn't have an IVA (other than the science lab's but with six seats)
+* Pod's IVA only has 4 seats (but still seats 50 (this probably will be reduced))
 * Stock Balance pass needed
 * loads of behind the scenes changes
-* Uses the HD textures, but much smaller release package
+* Uses the HD textures, MUCH smaller release package
 * Can search `lct`, `laztek` in editors
-* ghostparts.cfg has been updated and temporarily added for renamed parts
+* ghostparts.cfg temporarily added for renamed parts
+* size reduction
+  * archive size reduced from 47.3mb --> 28.3mb
+  * disk size reduced from 855mb --> 302mb
+* HD assets (textures) are supplied as default, alternative resolution assets (drag'n'drop) available (LD and MD)
 
 ### Archival Releases
 
@@ -76,6 +80,7 @@
 * create Assets/ folder
 * convert
   * from mesh to MODEL
+  * textures from .mbm to .dds
 * rename
   * Rename model files to unique names
   * textures to unique names
@@ -83,41 +88,23 @@
   * model pointers (.png et al to .dds)
   * model texture pointers to new names
 * relocate assets to Assets/
-* eliminate
-  * remove duplicates textures/models
+* eliminateduplicates textures/models
+  * <trans.mbm> 257kb
+  * <WhiteNormal.dds> 86kb x6 = 516kb
+  * <BlackNormal.dds> 86kb
+  * <Black.fw.dds> 86kb
+  * <Brushed.dds> 1.366mb
+  * <goldfoil.dds> 342kb
+  * <goldfoilNormal.dds> 342kb
+  * <White.fw.dds> 86kb x2 172kb
+  * <UVUltraDracoNormal.dds> 1.366 mb
+  * <UVUltraDraco.dds> 1.366 mb
+  * <UVUltraDracoEmissive.dds> 1.366 mb
 * relocate part.cfg to Parts/
 * textures
-  * Eliminate Duplicates
-    * <trans.mbm> 257kb
-    * <WhiteNormal.dds> 86kb x6 516kb 
-    * <BlackNormal.dds> 86kb
-    * <Black.fw.dds> 86kb
-    * <Brushed.dds> 1.366mb
-    * <goldfoil.dds> 342kb
-    * <goldfoilNormal.dds> 342kb
-    * <White.fw.dds> 86kb
-    * <White.fw.dds> 86kb
-    * <UVUltraDracoNormal.dds> 1.366 mb
-    * <UVUltraDraco.dds> 1.366 mb
-    * <UVUltraDracoEmissive.dds> 1.366 mb
-  * Convert form .mbm to .png
-    * <trans.mbm> 262kb --> 1kb
-    * <UVMCT1A.mbm> 65.6mb --> 12.6mb
-    * <UVMCTChute.mbm> 16.8mb --> 362kb
-    * <UVMCTChuteNormal.mbm> 16.35mb --> 55kb
-    * <UVMCTEmissive1A.mbm> 49.1mb --> 170kb
-    * <UVMCTInterstage.mbm> 12.3mb b --> 798kb
-    * <UVMCTInterstageNormal.mbm> 16.36kb --> 1.384mb
-    * <UVMCTLab01.mbm> 49.15mb --> 2.499mb
-    * <UVMCTLabEmissive01.mbm> 49.15mb --> 435kb
-    * <UVMCTLabNormal01.mbm> 65.5mb --> 2.427mb
-    * <UVMCTLandingLeg.mbm> 4.1mb --> 123kb
-    * <UVMCTLandingLegNormal.mbm> 4.1mb --> 23kb
-    * <UVMCTNormal1A.mbm> 65.5mb --> 1.392mb
-    * <UVMCTNoseCone.mbm> 3.1mb --> 137kb
-    * <WhiteNormal.mbm> 257kb --> 1kb
-407mb --> 21.8mb
-
+* size reduction
+  * archive size reduced from 47.3mb --> 28.3mb
+  * disk size reduced from 855mb --> 302mb
 * closes #12 - Part Asset Updates
 
 ### Documentation 0.9.99.0
