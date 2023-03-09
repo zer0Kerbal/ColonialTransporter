@@ -18,7 +18,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 A 50-kerbal, 7 meter capsule designed for the colonization of any planetary body. Accomodates an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
 
-only the 'HD' textures are included, if requested will also publish the 'normal' and the 'LD' textures.
+NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures are available to download and use instead.
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`LazarusLuan`][lazarusluan]
 
@@ -63,6 +63,7 @@ only the 'HD' textures are included, if requested will also publish the 'normal'
 
 ### See more
 
+>* [Falcon 9 wiki](https://en.wikipedia.org/wiki/Falcon_9)
 >* [GitHub Pages][pages]
 >* [Marketing Slicks][markt]
 >* [Parts Catalog][parts] for part pictures
