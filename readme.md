@@ -16,7 +16,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 # Colonial Transporter (LCT)
 
-A 50-kerbal, 7 meter capsule designed for the colonization of any planetary body. Accomodates an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
+A 50-kerbal, 7 meter capsule designed for the colonization of any planetary body. Accommodates  an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
 
 NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures are available to download and use instead.
 
@@ -33,7 +33,7 @@ NOTE: only the 'HD' textures are included, the 'normal' and the 'LD' textures ar
 
 * Parts
   * Colonial Transporter
-    * Capsule - A 50-person, 7 meter capsule designed for the colonization of any planetary body. Accomodates an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
+    * Capsule - A 50-person, 7 meter capsule designed for the colonization of any planetary body. Accommodates  an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
     * Labratory - 7-meter self-contained laboratory, greenhouse and fuel extraction/refinery facility with top decoupler, batteries, monopropellant and a light ablative heat shield.
     * Chute - Large parachute designed to be attached to Colonial Transport spacecraft for emergency and atmospheric planetary soft landings.
     * Docking Interstage - 7-meter decoupler and dock
