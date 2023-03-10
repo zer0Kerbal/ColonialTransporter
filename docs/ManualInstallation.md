@@ -6,17 +6,17 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.8.1
-ColonialTransporter (ABBV)
+Colonial Transporter (LCT)
 created: 01 Oct 2019
 updated: 29 Jul 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# ColonialTransporter (ABBV)
+# Colonial Transporter (LCT)
 
 [Home](./index.md)
 
-***BLURB***
+A 50-kerbal, 7 meter capsule designed for the colonization of any planetary body. Accommodates  an 8-person crew plus 42 passengers with a PICA-X heatshield built in for atmospheric returns and enough monopropellant on board for a fully-powered soft landing when equipped with UltraDraco engines.
 
 ## Installation Instructions
 
