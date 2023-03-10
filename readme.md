@@ -202,7 +202,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/ColonialTransporter/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/ColonialTransporter/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/ColonialTransporter/discussions "Discussions"
-[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/192742-*/ "ColonialTransporter Forum"
+[forum]: https://www.curseforge.com/kerbal/ksp-mods/ColonialTransporter "Colonial Transporter"
 [issue]: https://github.com/zer0Kerbal/ColonialTransporter/issues "Issues"
 [markt]: https://zer0kerbal.github.io/ColonialTransporter/Marketing "Marketing Slicks"
 [notic]: https://zer0kerbal.github.io/ColonialTransporter/Notices "Notices"
